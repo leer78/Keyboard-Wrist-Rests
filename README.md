@@ -39,4 +39,8 @@ Later, I also found that having just a simple triangle shape would not cut it ov
 ![image](https://user-images.githubusercontent.com/74937113/136845750-8b942a82-c285-423a-b3d7-069ff128057a.png)
 ![image](https://user-images.githubusercontent.com/74937113/136845762-c51b4616-a7ae-4623-9956-0e5f4192a74c.png)
 
-![image](https://user-images.githubusercontent.com/74937113/136845758-87784210-c044-4513-a741-03d26a098cd5.png)
+ATTACHED
+
+I've attached the .stl and inventor files for anyone that wants to print it. The filemaps are for one rest, so you'd have to print it twice.
+[wristrest.zip](https://github.com/leer78/Keyboard-Wrist-Rests/files/7324916/wristrest.zip)
+
